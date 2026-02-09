@@ -7,6 +7,7 @@
         <item>
             <title>Els escriptoris virtuals IsardVDI arriben a l'IEDIB</title>
             <link>https://iedib.net/wordpress/?p=5621</link>
+            <guid isPermaLink="true">https://iedib.net/wordpress/?p=5621</guid>
             <description>El projecte es troba actualment en plena fase operativa. Gràcies a la connexió amb el servidor central 
             allotjat al CIFP Politècnic, la plataforma ja està donant servei actiu a diversos grups de l'IEDIB. 
             Això permet que els nostres estudiants puguin realitzar les seves pràctiques en un entorn virtualitzat professional sense
@@ -17,11 +18,46 @@
         <item>
             <title>3D Talks! Xerrada amb Pablo Sahuquillo</title>
             <link>https://iedib.net/wordpress/?p=5530</link>
+            <guid isPermaLink="true">https://iedib.net/wordpress/?p=5530</guid>
             <description>Aquesta videoconferència es durà a terme en el marc de 3D Talks! Cicle de xerrades amb professionals del sector 
             de l'animació i els videojocs que organitzam des del Departament d'Animacions, 3D, Jocs i Entorns Interactius de l'IEDIB. 
             L'objectiu d'apropar a l'alumnat els secrets, les tendències i les oportunitats d'un sector audiovisual en plena evolució. 
             </description>
             <pubDate>19 Dec 2025 10:00:00 +0100</pubDate>
         </item>
+        <item>
+            <title>3Marxa solidària a favor de l'Associació Espanyola Contra el Càncer</title>
+            <link>https://curs25-26.cifpfbmoll.eu/2026/01/21/marxa-solidaria-aecc/</link>
+            <guid isPermaLink="true">https://curs25-26.cifpfbmoll.eu/2026/01/21/marxa-solidaria-aecc/</guid>
+            <description> Més de quatre-cents alumnes d'FP del CIFP Francesc de Borja Moll col·laboren amb l’AECC (Associació Espanyola 
+            Contra el Càncer) amb una marxa solidària de 4 km des del nostre centre fins a la platja de Ciutat Jardí que vam fer el passat dilluns 19 de gener.
+            La pluja no va aturar la solidaritat i la germanor per una bona causa.
+            Tots els donatius recaptats es destinaran a l'AECC per finançar estudis de recerca contra el càncer.
+            www.contraelcancer.es/
+            Gràcies a tots per la vostra participació malgrat la pluja!
+            </description>
+            <autor>Victor Ramos</autor>
+            <category>Salut</category>
+            <pubDate>08 Jan 2026 08:30:00 +0100</pubDate>
+        </item>
+            <item>
+            <title>Els alumnes de 1r de Comerç Internacional visiten l'empresa Tres Glops</title>
+            <link>https://curs25-26.cifpfbmoll.eu/2026/01/09/visita-tres-glops/</link>
+            <guid isPermaLink="true">https://curs25-26.cifpfbmoll.eu/2026/01/09/visita-tres-glops/</guid>
+            <description> Amb els alumnes de 1r Curs de Comerç Internacional hem visitat l'empresa embotelladora i distribuïdora d'aigua 
+            Tres Glops.
+            En Miguel Valverde i n'Estrella ens han acompanyat i ens han anat explicant amb tot detall el recorregut logístic des de 
+            l'aprovisionament, fins als diferents cicles de  producció, embotellament, emmagatzematge i posterior distribució als punts 
+            de venda. 
+            L'empresa Tres Glops, és un projecte molt complet, ja que a part de la venda i distribució d'aigua local, destaca el projecte 
+            social que duu a terme, en tractar-se d'un Centre Especial d'Ocupació on treballen, majoritàriament persones amb discapacitat.
+            El que ha fet que l'experiència hagi estat molt enriquidora pels nostres alumnes.
+
+            </description>
+            <autor>Victor Ramos</autor>
+            <category>Salut</category>
+            <pubDate>08 Jan 2026 08:30:00 +0100</pubDate>
+        </item>         
+
     </channel>
-</rss>    
+</rss>  
