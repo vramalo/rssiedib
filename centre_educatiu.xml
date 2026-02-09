@@ -4,6 +4,7 @@
         <title>Canal RSS de Victor Ramos</title>
         <link>https://iedib.net/</link>
         <description>Canal RRS creado para la entrega 5 de Lenguaje de Marcas</description>
+        <language>ca</language>
         <item>
             <title>Els escriptoris virtuals IsardVDI arriben a l'IEDIB</title>
             <link>https://iedib.net/wordpress/?p=5621</link>
@@ -13,8 +14,7 @@
             Això permet que els nostres estudiants puguin realitzar les seves pràctiques en un entorn virtualitzat professional sense
              necessitat d'instal·lar programari complex als seus ordinadors personals.
             </description>
-            <language>ca</language>
-            <autor>Victor Ramos</autor>
+            <author>vramalo89@gmail.com</author>
             <category>Tecnologia</category>
              <pubDate>16 Dec 2025 10:00:00 +0100</pubDate>
         </item>
@@ -26,8 +26,7 @@
             de l'animació i els videojocs que organitzam des del Departament d'Animacions, 3D, Jocs i Entorns Interactius de l'IEDIB. 
             L'objectiu d'apropar a l'alumnat els secrets, les tendències i les oportunitats d'un sector audiovisual en plena evolució. 
             </description>
-            <language>ca</language>
-            <autor>Victor Ramos</autor>
+            <author>vramalo89@gmail.com</author>
             <category>Tecnologia</category>
             <pubDate>19 Dec 2025 10:00:00 +0100</pubDate>
         </item>
@@ -42,8 +41,7 @@
             www.contraelcancer.es/
             Gràcies a tots per la vostra participació malgrat la pluja!
             </description>
-            <language>ca</language>
-            <autor>Victor Ramos</autor>
+            <author>vramalo89@gmail.com</author>
             <category>Salut</category>
             <pubDate>08 Jan 2026 08:30:00 +0100</pubDate>
         </item>
@@ -60,10 +58,10 @@
             social que duu a terme, en tractar-se d'un Centre Especial d'Ocupació on treballen, majoritàriament persones amb discapacitat.
             El que ha fet que l'experiència hagi estat molt enriquidora pels nostres alumnes.
             </description>
-            <language>ca</language>
-            <autor>Victor Ramos</autor>
+            <author>vramalo89@gmail.com</author>
             <category>Economia</category>
             <pubDate>09 Jan 2026 09:30:00 +0100</pubDate>
         </item>         
     </channel>
-</rss> 
+</rss>
+
