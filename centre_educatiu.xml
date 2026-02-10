@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title>Canal RSS de Victor Ramos</title>
         <link>https://iedib.net/</link>
@@ -14,7 +14,7 @@
             Això permet que els nostres estudiants puguin realitzar les seves pràctiques en un entorn virtualitzat professional sense
              necessitat d'instal·lar programari complex als seus ordinadors personals.
             </description>
-            <author>vramalo89@gmail.com</author>
+            <author>vramalo89@gmail.com (Victor Ramos)</author>
             <category>Tecnologia</category>
              <pubDate>16 Dec 2025 10:00:00 +0100</pubDate>
         </item>
@@ -26,7 +26,7 @@
             de l'animació i els videojocs que organitzam des del Departament d'Animacions, 3D, Jocs i Entorns Interactius de l'IEDIB. 
             L'objectiu d'apropar a l'alumnat els secrets, les tendències i les oportunitats d'un sector audiovisual en plena evolució. 
             </description>
-            <author>vramalo89@gmail.com</author>
+            <author>vramalo89@gmail.com (Victor Ramos)</author>
             <category>Tecnologia</category>
             <pubDate>19 Dec 2025 10:00:00 +0100</pubDate>
         </item>
@@ -34,6 +34,7 @@
             <title>3Marxa solidària a favor de l'Associació Espanyola Contra el Càncer</title>
             <link>https://curs25-26.cifpfbmoll.eu/2026/01/21/marxa-solidaria-aecc/</link>
             <guid isPermaLink="true">https://curs25-26.cifpfbmoll.eu/2026/01/21/marxa-solidaria-aecc/</guid>
+            <media:thumbnail url="https://curs25-26.cifpfbmoll.eu/wp-content/uploads/2026/01/marxaCancer.png" />
             <description> Més de quatre-cents alumnes d'FP del CIFP Francesc de Borja Moll col·laboren amb l’AECC (Associació Espanyola 
             Contra el Càncer) amb una marxa solidària de 4 km des del nostre centre fins a la platja de Ciutat Jardí que vam fer el passat dilluns 19 de gener.
             La pluja no va aturar la solidaritat i la germanor per una bona causa.
@@ -41,7 +42,7 @@
             www.contraelcancer.es/
             Gràcies a tots per la vostra participació malgrat la pluja!
             </description>
-            <author>vramalo89@gmail.com</author>
+            <author>vramalo89@gmail.com (Victor Ramos)</author>
             <category>Salut</category>
             <pubDate>08 Jan 2026 08:30:00 +0100</pubDate>
         </item>
@@ -49,6 +50,7 @@
             <title>Els alumnes de 1r de Comerç Internacional visiten l'empresa Tres Glops</title>
             <link>https://curs25-26.cifpfbmoll.eu/2026/01/09/visita-tres-glops/</link>
             <guid isPermaLink="true">https://curs25-26.cifpfbmoll.eu/2026/01/09/visita-tres-glops/</guid>
+            <media:thumbnail url="https://curs25-26.cifpfbmoll.eu/wp-content/uploads/2026/01/tresGlops.png" />
             <description> Amb els alumnes de 1r Curs de Comerç Internacional hem visitat l'empresa embotelladora i distribuïdora d'aigua 
             Tres Glops.
             En Miguel Valverde i n'Estrella ens han acompanyat i ens han anat explicant amb tot detall el recorregut logístic des de 
@@ -58,10 +60,9 @@
             social que duu a terme, en tractar-se d'un Centre Especial d'Ocupació on treballen, majoritàriament persones amb discapacitat.
             El que ha fet que l'experiència hagi estat molt enriquidora pels nostres alumnes.
             </description>
-            <author>vramalo89@gmail.com</author>
+            <author>vramalo89@gmail.com (Victor Ramos)</author>
             <category>Economia</category>
             <pubDate>09 Jan 2026 09:30:00 +0100</pubDate>
         </item>         
     </channel>
-</rss>
-
+</rss>  
